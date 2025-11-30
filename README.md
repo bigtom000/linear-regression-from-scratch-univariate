@@ -35,14 +35,16 @@ jupyter notebook linear_regression_from_scratch_multivariate.ipynb
 ```
 ## 🎬 Screenshots / Demo
 
-### 📈 Prediction Line Plot
-![Prediction Figure](https://github.com/radwanhefny/linear-regression-from-scratch-univariate/blob/main/results/prediction.png)
-
+### 📈 Prediction Line Plot  
+Shows how the model fits the data.  
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-univariate/main/results/prediction.png" width="500"/>
 
 ---
 
-### 📉 Error Plot
-![Error Figure](https://github.com/radwanhefny/linear-regression-from-scratch-univariate/blob/main/results/error.png)
+### 📉 Error Plot  
+Shows the cost/error decreasing over iterations.  
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-univariate/main/results/error.png" width="500"/>
+
 
 
 ## 🗂️ Project Structure
