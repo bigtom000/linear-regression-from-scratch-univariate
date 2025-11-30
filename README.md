@@ -19,7 +19,7 @@ Before running this project, ensure you have:
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/linear-regression-from-scratch-univariate.git
+git clone https://github.com/radwanhefny/linear-regression-from-scratch-univariate.git
 cd linear-regression-from-scratch-univariate
 ```
 2. Install dependencies:
@@ -27,8 +27,11 @@ cd linear-regression-from-scratch-univariate
 pip install -r requirements.txt
 ```
 3. Run the project:
+
+To run the notebook, simply launch Jupyter Notebook and open the file:
+
 ```bash
-python linear_regression_from_scratch_univariate.py
+jupyter notebook linear_regression_from_scratch_multivariate.ipynb
 ```
 ## 🎬 Screenshots / Demo
 
